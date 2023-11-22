@@ -24,7 +24,7 @@ export const Hero = () => {
           <Reveal>
             <p className={styles.aboutCopy}>
             Software Engineer and Mobile App Developer, working on Flutter
-and Dart for building highly responsive apps Committed to continuous skill enhancement, adept at problem-solving, and possesses strong communication skills. Enthusiastic about leading high-performance teams and seeking opportunities to contribute to innovative organizations.
+and Dart for building highly responsive apps. Committed to continuous skill enhancement, adept at problem-solving, and possesses strong communication skills. Enthusiastic about leading high-performance teams and seeking opportunities to contribute to innovative organizations.
             </p>
           </Reveal>
           <Reveal>

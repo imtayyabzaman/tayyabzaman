@@ -25,7 +25,9 @@ const experience = [
       "Dart",
       "Git",
       "TFS Azure",
-      "Figma"
+      "Figma",
+      "Rest API's",
+      "Third Party API's"
     ],
   },
   {

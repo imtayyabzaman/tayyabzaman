@@ -21,7 +21,7 @@ export const Stats = () => {
             {/* <span className="chip">NodeJS</span> */}
             {/* <span className="chip">Express</span> */}
             {/* <span className="chip">Postgres</span> */}
-            {/* <span className="chip">MongoDB</span> */}
+            <span className="chip">Rest API's</span>
             <span className="chip">Flutter</span>
             <span className="chip">Firebase</span>
             <span className="chip">GitHub</span>
