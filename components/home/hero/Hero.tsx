@@ -23,7 +23,8 @@ export const Hero = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutCopy}>
-            Experienced Mobile App Developer specializing in Flutter and Dart with 6-8 months of hands-on experience. Committed to continuous skill enhancement, adept at problem-solving, and possesses strong communication skills. Enthusiastic about leading high-performance teams and seeking opportunities to contribute to innovative organizations.
+            Software Engineer and Mobile App Developer, working on Flutter
+and Dart for building highly responsive apps Committed to continuous skill enhancement, adept at problem-solving, and possesses strong communication skills. Enthusiastic about leading high-performance teams and seeking opportunities to contribute to innovative organizations.
             </p>
           </Reveal>
           <Reveal>
