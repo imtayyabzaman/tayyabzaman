@@ -10,12 +10,12 @@ export default function home() {
         <meta name="description" content="Tayyab Zaman | Mobile App Developer" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta property="og:title" content="Tayyab Zaman | Mobile App Developer" />
-        <meta name="description" content="Hey! I'm Tayyab Zaman, and I'm a Bachelor of Science in Software Engineering graduate." />
+        <meta name="description" content="Hey! I'm Tayyab Zaman, and I'm a Software Engineering graduate." />
 
         <meta property="og:title" content="Tayyab Zaman | Mobile App Developer" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="https://tayyabgeek.com/" />
-        <meta property="og:description" content="Hey! I'm Amir Aziz, and I'm a Bachelor of Science in Software Engineering graduate." />
+        <meta property="og:url" content="" />
+        <meta property="og:description" content="Hey! I'm Tayyab Zaman, and I'm a Software Engineering graduate." />
       </Head>
       <Home />
     </>
